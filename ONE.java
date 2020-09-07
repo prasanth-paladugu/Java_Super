@@ -1,0 +1,9 @@
+//ONE CLASS FOE EX1 ON SUPER KEYWORD FOR ACESSING PARENT CLASS VARIABLES IN CHILD CLASS
+public class ONE						//PARENT CLASS
+{
+	int a;								//DECLARING VARIABLES
+	public void set(int a)				//METHOD FOR SETTING DATA
+	{
+		this.a=a;
+	}
+}

@@ -1,0 +1,8 @@
+//O CLASS FOE EX2 ON SUPER KEYWORD FOR ACESSING PARENT CLASS METHODS FROM CHILD CLASS
+public class O							//PARENT CLASS
+{
+	public void m1()					//METHOD FOR PRINTING DATA
+	{
+		System.out.println("M1 METHOD OF O CLASS");
+	}
+}
